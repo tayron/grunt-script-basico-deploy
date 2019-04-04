@@ -14,3 +14,4 @@ e alterando chamada no arquivo HTML.
 * **grunt-contrib-clean:** Utilizado para apagar arquivos temporários
 * **grunt-filerev:** Utilizado para alterar nome dos arquivos css e javascript adicionando um hash no final do nome
 * **grunt-filerev-replace:** Utilizado para alterar o nome das chamadas dos arquivos css e javascript para o nome dos arquivos hash no final
+* **grunt-contrib-compress:** Faz a compressão do diretório build para update.zip e dist.zip
